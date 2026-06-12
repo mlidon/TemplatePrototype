@@ -1,5 +1,6 @@
 # 🚀 **FastAPI Library CRUD**  
 A simple and educational CRUD application built with FastAPI, SQLite, and JWT authentication.
+"Part of my personal template collection for rapid prototyping of AI-powered applications."
 
 <p align="center">
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="180">
@@ -133,3 +134,7 @@ This repository is part of a personal learning journey to:
 ## 📜 **License**
 
 MIT License — feel free to use, modify, and learn from this project.
+
+
+Built by Marc Lidón — [marclidon.com]("https://marclidon.com")
+
