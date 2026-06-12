@@ -136,5 +136,5 @@ This repository is part of a personal learning journey to:
 MIT License — feel free to use, modify, and learn from this project.
 
 
-Built by Marc Lidón — [marclidon.com]("https://marclidon.com")
+Built by Marc Lidón — [marclidon.com](https://marclidon.com)
 
